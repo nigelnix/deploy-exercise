@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Dance Hits Volume 9",
+      "id": 3,
+      "band": "The Jolly Monkeys Brothers",
+      "price": 5.99
+    },
+    {
+      "name": "The Big Fat Hens",
+      "id": 2,
+      "band": "The Jolly Monkeys 2",
+      "price": 2.99
+    },
+    {
+      "name": "Jumping on the Sofa",
+      "id": 4,
+      "band": "High Joe and the Down Lows",
+      "price": 4.99
+    },
+    {
+      "name": "Who Touched My Shoulder",
+      "id": 1,
+      "band": "Spooky Freddy and his Ghostly Follies",
+      "price": 4.99
+    }
+  ]
+  
+}
